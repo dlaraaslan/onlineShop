@@ -19,3 +19,25 @@ Usage
 * To view the cart, click on the "Cart" link at the top of the page.
 
 * To update the cart contents or remove products, perform the necessary actions.
+
+
+# Installation
+* Clone this repository to your local machine:
+git clone https://github.com/dlaraaslan/onlineShop.git
+
+
+* Navigate to the project directory:
+cd OnlineShop
+
+* Install the required gems:
+bundle install
+
+
+* Create and migrate the database:
+rails db:create
+rails db:migrate
+
+* Start the server:
+rails server
+
+* Open your browser and go to http://localhost:3000 to view the application.
