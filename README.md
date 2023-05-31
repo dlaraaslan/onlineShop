@@ -1,24 +1,21 @@
-# README
+# Shopping Cart Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple shopping cart application developed using Ruby on Rails. The application provides basic shopping cart functionalities such as adding products to the cart, viewing cart contents, removing products from the cart, and creating orders.
 
-Things you may want to cover:
+Features
 
-* Ruby version
+* Users can add and remove products from the cart.
 
-* System dependencies
+* Users can view and update the contents of the cart.
 
-* Configuration
+* Users can view total prices.
 
-* Database creation
+Usage
 
-* Database initialization
+* On the home page, you can view the available products.
 
-* How to run the test suite
+* To add a product to the cart, click on the "Add to Cart" button next to the product.
 
-* Services (job queues, cache servers, search engines, etc.)
+* To view the cart, click on the "Cart" link at the top of the page.
 
-* Deployment instructions
-
-* ...
+* To update the cart contents or remove products, perform the necessary actions.
