@@ -21,7 +21,7 @@ Usage
 * To update the cart contents or remove products, perform the necessary actions.
 
 
-# Installation
+Installation
 * Clone this repository to your local machine:
 git clone https://github.com/dlaraaslan/onlineShop.git
 
